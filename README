@@ -1,0 +1,9 @@
+Aplikacja stworzona wegług wymagań: 
+Create an application using django and django rest framework that uses django's auth system and provides an API for a simple discussion service (discussion forum with a single thread). The API clients can:
+1. Create a post
+2. Get a list of posts ordered by date of creation, information about the count of likes and like count included.
+3. Edit a post created by the authenticated user.
+4. Delete a post created by the authenticated user.
+5. Like another user's post.
+
+Dostęp do API przez localhost/api/posts/
